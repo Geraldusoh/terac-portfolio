@@ -1,6 +1,6 @@
 # Ehimwenma Usoh
 
-### AI Evaluation | Visual Design | Creative Photography
+### A practical case study demonstrating AI agent evaluation, visual quality assurance, iterative testing, structured feedback and validation of AI-generated designs against defined requirements.
 
 Welcome to my professional portfolio, showcasing practical projects in AI evaluation, visual design, photography and creative editing.
 
